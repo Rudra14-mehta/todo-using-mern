@@ -1,5 +1,6 @@
 # 🎯 Todo App - Time Management & Task Organizer
 Todo App – Smart Task Organizer with Time Management & Dark/Light Mode.
+
 A modern, responsive todo application built with React and Node.js that helps you manage tasks with time scheduling capabilities. Features a beautiful UI with dark/light theme support and smooth animations.
 
 ![Todo App Preview](https://img.shields.io/badge/React-18.0+-blue?style=for-the-badge&logo=react)
