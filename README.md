@@ -63,7 +63,7 @@ Visit the application: [http://localhost:5173](http://localhost:5173)
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone <repo-url>
 cd todo-app
 ```
 
